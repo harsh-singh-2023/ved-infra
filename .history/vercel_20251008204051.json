@@ -1,0 +1,3 @@
+{
+  "outputDirectory": "dist" // Change "dist" to your actual output folder (e.g., "build" or ".next")
+}
