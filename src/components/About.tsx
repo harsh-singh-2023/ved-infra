@@ -156,7 +156,7 @@ export function About() {
               >
                 Start Your Project
               </motion.button>
-              <motion.button
+              {/* <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 onClick={() => {
@@ -168,7 +168,7 @@ export function About() {
                 className="px-6 py-3 border border-primary/20 text-foreground rounded-lg hover:bg-primary/5 transition-colors"
               >
                 Meet Our Team
-              </motion.button>
+              </motion.button> */}
             </motion.div>
           </motion.div>
         </div>
