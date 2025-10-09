@@ -2,7 +2,7 @@ import { Button } from "./ui/button";
 import { Menu, X } from "lucide-react";
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
-import vedLogo from "../assets/logo.png";
+import vedLogo from "../assets/logo-ved-infra.png";
 import { navigateToContact } from "./utils/navigation";
 
 interface NavigationProps {
